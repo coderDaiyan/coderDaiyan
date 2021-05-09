@@ -10,7 +10,7 @@
 - 📙 I am currently Learning at **Programming Hero**
 - 🌱 I'm currently Learning NodeJS and MongoDB
 - 🎯 2021 Goals: Typescript, Vue, NextJS
-- ⚡ Fun Fact: I love to Travel ✈
+- ⚡ Fun Fact: I love to Play Cricket 🏏
 
 ## Connect with Me
 
