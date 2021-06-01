@@ -17,7 +17,7 @@
 [![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/developerdaiyan/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/DaiyanDeveloper)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Questions-orange)](https://stackoverflow.com/users/14914177/coderdaiyan)
-[![Linkedin](https://img.shields.io/badge/Linkedin-Connect%20with%20Me-blue)
+[!Linkedin](https://img.shields.io/badge/Linkedin-Connect%20with%20Me-blue)
 
 ## Languages and Tools:
 
