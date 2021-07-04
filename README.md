@@ -44,8 +44,6 @@
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-## ⭐ Github Stats
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderDaiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="coderdaiyan" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderDaiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="coderdaiyan" /></p>
