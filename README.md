@@ -3,6 +3,8 @@
 <!-- welcome message -->
 <h2>Assalamu Alaikum, I am Abdallah Daiyan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
+[![](https://img.shields.io/static/v1?label=Abdallah_Daiyan&logo=github&message=Follow&color=black)](https://github.com/coderDaiyan)
+
 ###
 
 ## I am a React Lover 😍😍
