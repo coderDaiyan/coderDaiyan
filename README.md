@@ -8,7 +8,7 @@
 ## I am a React Lover 😍😍
 
 - 📙 I am currently Learning at **Programming Hero**
-- 🌱 I'm currently Learning **Dart**
+- 🌱 I'm currently Learning **What i Need** 🤣
 - 🎯 2021 Goals: Flutter, Vue, NextJS
 - ⚡ Fun Fact: I love to Play Cricket 🏏
 
