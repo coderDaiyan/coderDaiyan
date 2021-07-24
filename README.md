@@ -15,12 +15,12 @@
 
 ## Connect with Me
 
-[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/developerdaiyan/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/DaiyanDeveloper)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Questions-orange)](https://stackoverflow.com/users/14914177/coderdaiyan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/daiyanjs/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DaiyanDeveloper)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14914177/coderdaiyan)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Connect%20with%20Me-blue)](https://www.linkedin.com/in/abdallah-daiyan/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daiyanabdallah@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-__Daiyan%20JS__%239956-%235865F2)](https://discord.com/users/816268050499633172)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/816268050499633172)
 
 
 
