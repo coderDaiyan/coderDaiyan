@@ -13,7 +13,7 @@
 - 🎯 2021 Goals: Flutter, Vue, NextJS
 - ⚡ Fun Fact: I love to Play Cricket 🏏
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=coderDaiyan&color=blueviolet)
 
 ## Connect with Me
 
