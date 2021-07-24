@@ -19,7 +19,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/DaiyanDeveloper)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Questions-orange)](https://stackoverflow.com/users/14914177/coderdaiyan)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Connect%20with%20Me-blue)](https://www.linkedin.com/in/abdallah-daiyan/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daiyanabdallah@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-__Daiyan%20JS__%239956-%235865F2)](https://discord.com/users/816268050499633172)
+
+
 
 ## 💻 Languages and Tools:
 
