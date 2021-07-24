@@ -9,6 +9,7 @@
 
 - 📙 I am currently Learning at **Programming Hero**
 - 🌱 I'm currently Learning **What i Need** 🤣
+- 💻 Most used code `console.log()`
 - 🎯 2021 Goals: Flutter, Vue, NextJS
 - ⚡ Fun Fact: I love to Play Cricket 🏏
 
