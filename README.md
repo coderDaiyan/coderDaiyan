@@ -7,7 +7,7 @@
 
 ## I am a React Lover 😍😍
 
-- 📙 I am currently Learning at **Programming Hero**
+- 📙 I am Admin in Command at **Programming Hero**
 - 🌱 I'm currently Learning **What i Need** 🤣
 - 💻 Most used code `console.log()`
 - 🎯 2021 Goals: Flutter, Vue, NextJS
