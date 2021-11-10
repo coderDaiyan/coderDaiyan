@@ -1,7 +1,5 @@
-![Banner](/assets/banner.png)
-
 <!-- welcome message -->
-<h2>Assalamu Alaikum, I am Abdallah Daiyan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2>Bonjour, I am Abdallah Daiyan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 
 ###
 
