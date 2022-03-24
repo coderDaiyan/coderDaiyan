@@ -11,6 +11,10 @@
 - 🎯 2021 Goals: Flutter, Vue, NextJS
 - ⚡ Fun Fact: I love to Play Cricket 🏏
 
+<a href="https://discord.com/users/778907112532606997" target="_blank">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/778907112532606997?bg=1f1f1f&borderRadius=5px">
+</a>
+
 ## Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/daiyanjs/)
