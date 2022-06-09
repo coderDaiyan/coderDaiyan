@@ -9,9 +9,12 @@
 - 🌱 I'm currently Learning **Rust, Vim and some linux stuffs** 🤓
 - 💻 Most used code `console.log()`
 - 🎯 2021 Goals: Flutter, Vue, NextJS
-- ⚡ ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) usr btw 😎
+- ⚡ fedora usr btw 😎
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/778907112532606997)](https://discord.com/users/778907112532606997)
+
+## Operating System
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 ## Connect with Me
 
