@@ -6,14 +6,12 @@
 ## I am a React Lover 😍😍
 
 - 📙 I am Admin in Command at **Programming Hero**
-- 🌱 I'm currently Learning **What i Need** 🤣
+- 🌱 I'm currently Learning **Rust, Vim and some linux stuffs** 🤓
 - 💻 Most used code `console.log()`
 - 🎯 2021 Goals: Flutter, Vue, NextJS
-- ⚡ Fun Fact: I love to Play Cricket 🏏
+- ⚡ ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) usr btw 😎
 
-<a href="https://discord.com/users/778907112532606997" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/778907112532606997?bg=1f1f1f&borderRadius=5px">
-</a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/778907112532606997)](https://discord.com/users/778907112532606997)
 
 ## Connect with Me
 
