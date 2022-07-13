@@ -48,4 +48,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderDaiyan&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=coderDaiyan)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderDaiyan&theme=nord)](https://git.io/streak-stats)
