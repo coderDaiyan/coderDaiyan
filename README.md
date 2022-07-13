@@ -3,8 +3,6 @@
 
 ###
 
-## I am a React Lover 😍😍
-
 - 📙 I am Admin in Command at **Programming Hero**
 - 🌱 I'm currently Learning **Rust, Vim and some linux stuffs** 🤓
 - 💻 Most used code `console.log()`
@@ -46,7 +44,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderDaiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="coderdaiyan" /></p>
+![My github stats](https://github-readme-stats.vercel.app/api?username=coderDaiyan&show_icons=true&theme=nord)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderDaiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="coderdaiyan" /></p> <br>
 
