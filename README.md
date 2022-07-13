@@ -46,6 +46,6 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=coderDaiyan&show_icons=true&theme=nord)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderDaiyan&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="coderdaiyan" /></p> <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderDaiyan&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=coderDaiyan)  
