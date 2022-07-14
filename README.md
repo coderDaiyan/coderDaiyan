@@ -4,9 +4,9 @@
 ###
 
 - 📙 I am Admin in Command at **Programming Hero**
-- 🌱 I'm currently Learning **Rust, Vim and some linux stuffs** 🤓
+- 🌱 I'm currently Learning some nerd things 🤓
 - 💻 Most used code `console.log()`
-- 🎯 2021 Goals: Flutter, Vue, NextJS
+- 🎯 2022 Goals: Node, Backend Architecture, Nextjs
 - ⚡ *i use arch btw*
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/778907112532606997)](https://discord.com/users/778907112532606997)
