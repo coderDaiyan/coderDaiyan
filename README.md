@@ -44,8 +44,9 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 <details>
-<summary>Github Stats</summary>
+<summary><h2>Github Stats</h2></summary>
 <br>
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=coderDaiyan&show_icons=true&theme=nord)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderDaiyan&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
