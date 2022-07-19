@@ -53,7 +53,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderDaiyan&theme=nord)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=coderDaiyan&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=coderDaiyan&theme=nord&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
 
