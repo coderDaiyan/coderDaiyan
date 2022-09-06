@@ -3,8 +3,8 @@
 
 ###
 
-- 📙 I am Admin in Command at **Programming Hero**
-- 🌱 I'm currently Learning some nerd things 🤓
+- 📙 I'm a fullstack developer at <a href="https://www.genres-agency.com" target="_blank">GenRes Agency</a>
+- 🌱 I'm currently learning react + typescript
 - 💻 Most used code `console.log()`
 - 🎯 2022 Goals: Node, Backend Architecture, Nextjs
 - ⚡ *i use arch btw*
