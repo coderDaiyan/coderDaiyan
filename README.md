@@ -47,11 +47,11 @@
 <summary><h2>Github Stats</h2></summary>
 <br>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=coderDaiyan&show_icons=true&theme=nord)
+![My github stats](https://github-readme-stats.vercel.app/api?username=coderDaiyan&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderDaiyan&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderDaiyan&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderDaiyan&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coderDaiyan&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://git.io/streak-stats)
 </details>
 
 
