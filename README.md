@@ -9,11 +9,6 @@
 - 🎯 2022 Goals: Node, Backend Architecture, Nextjs
 - ⚡ *i use arch btw*
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/778907112532606997)](https://discord.com/users/778907112532606997)
-
-## Operating System
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
 ## Connect with Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/daiyanjs/)
