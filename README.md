@@ -3,7 +3,7 @@
 
 ###
 
-- 📙 I'm a fullstack developer at <a href="https://www.genres-agency.com" target="_blank">GenRes Agency</a>
+- 📙 I'm currently looking for positions!
 - 🌱 I'm currently learning react + typescript
 - 💻 Most used code `console.log()`
 - 🎯 2022 Goals: Node, Backend Architecture, Nextjs
