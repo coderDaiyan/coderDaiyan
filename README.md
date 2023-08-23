@@ -6,7 +6,7 @@
 - 📙 I'm currently looking for positions!
 - 🌱 I'm currently learning react + typescript
 - 💻 Most used code `console.log()`
-- 🎯 2022 Goals: Node, Backend Architecture, Nextjs
+- 🎯 2023 Goals: AIII
 - ⚡ *i use arch btw*
 
 ## Connect with Me
