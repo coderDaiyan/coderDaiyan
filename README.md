@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on dreabuild<br>👯 I’m looking to collaborate on mern+react native projects<br>🌱 I’m currently learning software development<br>💬 Ask me about javascript<br>⚡ Fun fact - I love to read feluda (bengali detective fiction)
+🔭 I’m currently working at dreabuild<br>👯 I’m looking to collaborate on mern+react native projects<br>🌱 I’m currently learning software development<br>💬 Ask me about javascript<br>⚡ Fun fact - I love to read feluda (bengali detective fiction)
 
 
 ## 🌐 Socials:
